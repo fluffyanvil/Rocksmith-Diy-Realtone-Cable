@@ -1,1 +1,1 @@
-Repository contents Arduino sketch for make your own Rocksmith Custom Guitar Cable with low cost usb soundcard and arduino for play Rocksmith game on PC, Mac or PS4!
+Repository contents Arduino sketch for make your own Rocksmith Custom Guitar Cable with low cost usb soundcard and arduino for play Rocksmith game on PC, Mac or PS4! For more information see Wiki (https://github.com/sergeygarnov/Rocksmith-Custom-Realtone-Cable/wiki)
