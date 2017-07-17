@@ -1,7 +1,7 @@
-#define PIN_DO 10 //MISO - Digital 10
-#define PIN_DI 11 //MOSI - Digital 11
-#define PIN_SK 12 //SCK - Digital 12
-#define PIN_CS 13 //SS - Digital 13
+#define PIN_DO 50 //MISO - Digital 50
+#define PIN_DI 51 //MOSI - Digital 51
+#define PIN_SK 52 //SCK - Digital 52
+#define PIN_CS 53 //SS - Digital 53
 
 #define BIT_LENGTH 16
 
